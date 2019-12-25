@@ -50,7 +50,7 @@
 * Java开发实战经典(名师讲坛).李兴华.扫描版.pdf
 * 分布式Java应用:基础与实践林昊.高清文字版.pdf
 * 分布式Java应用:基础与实践林昊高清文字版带书签.pdf
-# MySQL
+# 数据库
 * MySQL技术内募pdf
 * 深入理解MySQL.pdf
 * MyBatis核心教程.pdf
