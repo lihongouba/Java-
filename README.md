@@ -110,5 +110,5 @@
 * 剑指ffer名企面试官精讲典型编程题(纪念版) .pdf
 
 # 扫描二维码免费领取以上全部电子书
-![image](https://github.com/lihongouba/Java-/blob/master/img/20191203173834.png)
+![image](https://raw.githubusercontent.com/lihongouba/Java-/master/20200605140516.jpg)
 
